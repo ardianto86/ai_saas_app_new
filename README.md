@@ -1,4 +1,4 @@
-https://www.youtube.com/watch?v=Ahwoks_dawU&t=37m42s
+https://www.youtube.com/watch?v=Ahwoks_dawU&t=1h2m
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
